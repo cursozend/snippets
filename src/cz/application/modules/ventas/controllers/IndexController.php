@@ -8,6 +8,7 @@ class Ventas_IndexController extends Zend_Controller_Action
         /* Initialize action controller here */
     }
 
+    public function rAction(){}
     public function indexAction()
     {
         // action body
